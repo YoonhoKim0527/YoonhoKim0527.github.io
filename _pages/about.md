@@ -53,36 +53,37 @@ Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH
 ---
 
 * **CSE GLP Fellowship (Global Leadership Program)**
-    * *Mar 2024* | Issued by POSTECH
+    * Mar 2024 · Issued by POSTECH
     * Selected for excellence in Computer Science (Grant: 8,000,000 KRW).
 * **Presidential Science Scholarship (대통령과학장학금)**
-    * *Feb 2022* | Issued by Korea Student Aid Foundation (KOSAF)
+    * Feb 2022 · Issued by Korea Student Aid Foundation (KOSAF) (Grant: 20,000,000 KRW).
+
 
 <br>
 
 ### Work Experience
 ---
 
-* **Software Engineer Intern** | Lambda256 (Dunamu, Upbit)
-    * *Jun 2023 – Aug 2023*
-* **Developer** | PDAO
-    * *Oct 2022 – Aug 2023*
+* **Software Engineer Intern** · Lambda256 (Dunamu, Upbit)
+    * Jun 2023 – Aug 2023
+* **Developer** · PDAO
+    * Oct 2022 – Aug 2023
 
 <br>
 
 ### Research Experience
 ---
-* **Research Intern & Current Lab (AI for Science)** | Kaist 
-    * *August 2025 – Current* | Advised by Prof. Sungsoo Ahn
-* **Research Intern (Computer Vision)** | Seoul National University (SNU)
-    * *Jan 2025 – July 2025* | Advised by Prof. Bohyung Han
-* **Research Intern (Database Systems)** | POSTECH
-    * *Feb 2024 – Aug 2024* | Advised by Prof. Wookshin Han
+* **Research Intern & Current M.S. Program (Ai for Science)** · Kaist
+    * August 2025 – Present · Advised by Prof. Sungsoo Ahn
+* **Research Intern (Computer Vision)** · Seoul National University (SNU)
+    * Jan 2025 – July 2025 · Advised by Prof. Bohyung Han
+* **Research Intern (Database Systems)** · POSTECH
+    * Feb 2024 – Aug 2024 · Advised by Prof. Wookshin Han
     * Focus: Vector DB optimization.
-* **Research Intern (Distributed Systems)** | Seoul National University (SNU)
-    * *Oct 2023 – Feb 2024* | Advised by Prof. Hyeonsang Eom
+* **Research Intern (Distributed Systems)** · Seoul National University (SNU)
+    * Oct 2023 – Feb 2024 · Advised by Prof. Hyeonsang Eom
     * Focus: Blockchain and storage systems.
-* **Research Intern (Chemical AI)** | POSTECH
-    * *Jan 2021 – Jul 2022* | Advised by Prof. Jeongwoo Han
+* **Research Intern (Chemical AI)** · POSTECH
+    * Jan 2021 – Jul 2022 · Advised by Prof. Jeongwoo Han
     * Focus: Density Functional Theory (DFT) & Chemical AI.
 
