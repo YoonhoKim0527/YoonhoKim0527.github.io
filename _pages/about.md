@@ -2,26 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motd.
+subtitle: <a href='#'>Master's Student</a> at KAIST AI.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to a circle
+  image: prof_pic.jpg # 아까 올린 사진 파일명과 똑같아야 합니다 (예: .png면 .png로 수정)
+  image_circular: false # true로 하면 원형으로 잘립니다
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kim Jaechul AI Graduate School</p>
+    <p>KAIST</p>
+    <p>Seoul, South Korea</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # 뉴스 끄기
+latest_posts: false  # 블로그 최신글 끄기
+selected_papers: false # 자동 논문 목록 끄기 (직접 적을 것이므로)
+social: true  # 하단 아이콘은 유지
 ---
 
-I am a Master's student at **KAIST Kim Jaechul AI Graduate School**, advised by Prof. [Advisor Name]. Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH**.
+I am a Master's student at **KAIST Kim Jaechul AI Graduate School**, advised by Prof. Sungsoo Ahn. My research focuses on **AI for Science**, specifically aiming to accelerate or approximate **DFT (Density Functional Theory)** and **MD (Molecular Dynamics)** using AI, and solving physical/chemical problems with machine learning.
 
-My research interests lie in **AI for Science**, specifically applying **Computer Vision** and **Deep Learning** techniques to solve problems in **Chemistry** and **Physics**.
+Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH**, where I also explored Chemical Engineering.
 
 ### Education
 
@@ -30,6 +30,23 @@ My research interests lie in **AI for Science**, specifically applying **Compute
 * **B.S. in Computer Science & Mathematics** (2020 - 2025)
     * POSTECH, South Korea
     * *Exchange Student at University of Liverpool (2024)*
+
+### Publications
+
+**DiVaTe: A Benchmark for Semantic Contamination in Visual Text Rendering**
+<br> **Yoonho Kim**, Jaeyoo Park, Wonjae Roh, Bohyung Han
+<br> *Preprint*
+
+**Unveiling the catalyst deactivation mechanism in the non-oxidative dehydrogenation of light alkanes on Rh (111)**
+<br> S Choung, **Y Kim**, J Moon, J Roh, J Hwang, JW Han
+<br> *Catalysis Today 411, 113819*
+
+### Work Experience
+
+* **Software Engineer Intern** | Lambda256 (Dunamu, Upbit)
+    * *Jun 2023 – Aug 2023*
+* **Developer** | PDAO
+    * *Oct 2022 – Aug 2023*
 
 ### Research Experience
 
@@ -45,9 +62,3 @@ My research interests lie in **AI for Science**, specifically applying **Compute
     * *Jan 2021 – Jul 2022* | Advised by Prof. Jeongwoo Han
     * Focus: Density Functional Theory (DFT) & Chemical AI.
 
-### Work Experience
-
-* **Software Engineer Intern** | Lambda256 (Dunamu, Upbit)
-    * *Jun 2023 – Aug 2023*
-* **Developer** | PDAO
-    * *Oct 2022 – Aug 2023*
