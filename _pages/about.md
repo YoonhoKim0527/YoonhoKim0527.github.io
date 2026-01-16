@@ -72,9 +72,10 @@ Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH
 
 ### Research Experience
 ---
-
+* **Research Intern & Current Lab (AI for Science)** | Kaist 
+    * *August 2025 – Current* | Advised by Prof. Sungsoo Ahn
 * **Research Intern (Computer Vision)** | Seoul National University (SNU)
-    * *Jan 2025 – Present* | Advised by Prof. Bohyung Han
+    * *Jan 2025 – July 2025* | Advised by Prof. Bohyung Han
 * **Research Intern (Database Systems)** | POSTECH
     * *Feb 2024 – Aug 2024* | Advised by Prof. Wookshin Han
     * Focus: Vector DB optimization.
