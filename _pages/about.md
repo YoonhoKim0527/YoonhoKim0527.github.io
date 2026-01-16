@@ -2,33 +2,52 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motd.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
+  image_circular: false # crops the image to a circle
+  address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Master's student at **KAIST Kim Jaechul AI Graduate School**, advised by Prof. [Advisor Name]. Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in **AI for Science**, specifically applying **Computer Vision** and **Deep Learning** techniques to solve problems in **Chemistry** and **Physics**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Education
+
+* **M.S. in AI** (2026 - Present)
+    * KAIST, South Korea
+* **B.S. in Computer Science & Mathematics** (2020 - 2025)
+    * POSTECH, South Korea
+    * *Exchange Student at University of Liverpool (2024)*
+
+### Research Experience
+
+* **Research Intern (Computer Vision)** | Seoul National University (SNU)
+    * *Jan 2025 – Present* | Advised by Prof. Bohyung Han
+* **Research Intern (Database Systems)** | POSTECH
+    * *Feb 2024 – Aug 2024* | Advised by Prof. Wookshin Han
+    * Focus: Vector DB optimization.
+* **Research Intern (Distributed Systems)** | Seoul National University (SNU)
+    * *Oct 2023 – Feb 2024* | Advised by Prof. Hyeonsang Eom
+    * Focus: Blockchain and storage systems.
+* **Research Intern (Chemical AI)** | POSTECH
+    * *Jan 2021 – Jul 2022* | Advised by Prof. Jeongwoo Han
+    * Focus: Density Functional Theory (DFT) & Chemical AI.
+
+### Work Experience
+
+* **Software Engineer Intern** | Lambda256 (Dunamu, Upbit)
+    * *Jun 2023 – Aug 2023*
+* **Developer** | PDAO
+    * *Oct 2022 – Aug 2023*
