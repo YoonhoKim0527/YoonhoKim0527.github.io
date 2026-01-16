@@ -16,12 +16,12 @@ profile:
 news: false
 latest_posts: false
 selected_papers: false
-social: true
+social: false 
 ---
 
 I am a Master's student at **KAIST Kim Jaechul AI Graduate School**, advised by Prof. Sungsoo Ahn. My research focuses on **AI for Science**, specifically aiming to accelerate or approximate **DFT (Density Functional Theory)** and **MD (Molecular Dynamics)** using AI, and solving physical/chemical problems with machine learning.
 
-Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH**, where I also explored Chemical Engineering.
+Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH**, where I also explored Chemical Engineering. Contact me with yoonho2001@kaist.ac.kr or hjyang093@gmail.com
 
 <br>
 
