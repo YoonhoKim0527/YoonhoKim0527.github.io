@@ -6,24 +6,27 @@ subtitle: <a href='#'>Master's Student</a> at KAIST AI.
 
 profile:
   align: right
-  image: prof_pic.jpg # 아까 올린 사진 파일명과 똑같아야 합니다 (예: .png면 .png로 수정)
-  image_circular: false # true로 하면 원형으로 잘립니다
+  image: prof_pic.jpg
+  image_circular: false
   address: >
     <p>Kim Jaechul AI Graduate School</p>
     <p>KAIST</p>
     <p>Seoul, South Korea</p>
 
-news: false  # 뉴스 끄기
-latest_posts: false  # 블로그 최신글 끄기
-selected_papers: false # 자동 논문 목록 끄기 (직접 적을 것이므로)
-social: true  # 하단 아이콘은 유지
+news: false
+latest_posts: false
+selected_papers: false
+social: true
 ---
 
 I am a Master's student at **KAIST Kim Jaechul AI Graduate School**, advised by Prof. Sungsoo Ahn. My research focuses on **AI for Science**, specifically aiming to accelerate or approximate **DFT (Density Functional Theory)** and **MD (Molecular Dynamics)** using AI, and solving physical/chemical problems with machine learning.
 
 Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH**, where I also explored Chemical Engineering.
 
+<br>
+
 ### Education
+---
 
 * **M.S. in AI** (2026 - Present)
     * KAIST, South Korea
@@ -31,7 +34,10 @@ Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH
     * POSTECH, South Korea
     * *Exchange Student at University of Liverpool (2024)*
 
+<br>
+
 ### Publications
+---
 
 **DiVaTe: A Benchmark for Semantic Contamination in Visual Text Rendering**
 <br> **Yoonho Kim**, Jaeyoo Park, Wonjae Roh, Bohyung Han
@@ -41,14 +47,31 @@ Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH
 <br> S Choung, **Y Kim**, J Moon, J Roh, J Hwang, JW Han
 <br> *Catalysis Today 411, 113819*
 
+<br>
+
+### Honors and Awards
+---
+
+* **CSE GLP Fellowship (Global Leadership Program)**
+    * *Mar 2024* | Issued by POSTECH
+    * Selected for excellence in Computer Science (Grant: 8,000,000 KRW).
+* **Presidential Science Scholarship (대통령과학장학금)**
+    * *Feb 2022* | Issued by Korea Student Aid Foundation (KOSAF)
+
+<br>
+
 ### Work Experience
+---
 
 * **Software Engineer Intern** | Lambda256 (Dunamu, Upbit)
     * *Jun 2023 – Aug 2023*
 * **Developer** | PDAO
     * *Oct 2022 – Aug 2023*
 
+<br>
+
 ### Research Experience
+---
 
 * **Research Intern (Computer Vision)** | Seoul National University (SNU)
     * *Jan 2025 – Present* | Advised by Prof. Bohyung Han
