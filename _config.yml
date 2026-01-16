@@ -7,7 +7,7 @@ first_name: Yoonho
 middle_name:
 last_name: Kim
 contact_note: >
-  yoonho2001@kaist.ac.kr
+  yoonho2001@kaist.ac.kr  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Master's student at KAIST AI. Focusing on AI for Science, Computer Vision, and Chemical AI.
 footer_text: >
