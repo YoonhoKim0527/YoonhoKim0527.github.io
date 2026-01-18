@@ -39,9 +39,9 @@ Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH
 ### Publications
 ---
 
-**DiVaTe: A Benchmark for Semantic Contamination in Visual Text Rendering** 
-<br> **Yoonho Kim**, Jaeyoo Park, Wonjae Roh, Bohyung Han
-<br> *Preprint, 2025*
+**DiVaTe: A Benchmark for Semantic Contamination in Visual Text Rendering**
+<br> **Yoonho Kim***, Jaeyoo Park*, Wonjae Roh, Bohyung Han
+<br> *Preprint, 2025* (* Equal contribution)
 
 **Unveiling the catalyst deactivation mechanism in the non-oxidative dehydrogenation of light alkanes on Rh (111)**
 <br> S Choung, **Y Kim**, J Moon, J Roh, J Hwang, JW Han
