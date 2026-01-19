@@ -40,7 +40,7 @@ Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH
 ---
 
 **DiVaTe: A Benchmark for Semantic Contamination in Visual Text Rendering**
-<b>Yoonho Kim<sup>&#42;</sup></b>, Jaeyoo Park<sup>&#42;</sup>, Wonjae Roh, Bohyung Han
+<br> <b>Yoonho Kim<sup>&#42;</sup></b>, Jaeyoo Park<sup>&#42;</sup>, Wonjae Roh, Bohyung Han
 <br><i>Preprint, 2025</i> (<sup>&#42;</sup> Equal contribution)
 
 **Unveiling the catalyst deactivation mechanism in the non-oxidative dehydrogenation of light alkanes on Rh (111)**
