@@ -39,6 +39,10 @@ Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH
 ### Publications
 ---
 
+**Machine Learning Hamiltonians are Accurate Energy-Force Predictors**
+Seongsu Kim, Chanhui Lee, Yoonho Kim, Seongjun Yun, Honghui Kim, Nayoung Kim, Changyoung Park, Sehui Han, Sungbin Lim, Sungsoo Ahn 
+<br><i>Preprint, 2026</i>
+
 **DiVaTe: A Benchmark for Semantic Contamination in Visual Text Rendering**
 <br> <b>Yoonho Kim<sup>&#42;</sup></b>, Jaeyoo Park<sup>&#42;</sup>, Wonjae Roh, Bohyung Han
 <br><i>Preprint, 2025</i> (<sup>&#42;</sup> Equal contribution)
