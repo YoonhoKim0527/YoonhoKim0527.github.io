@@ -41,7 +41,7 @@ Previously, I completed my B.S. in Computer Science and Mathematics at **POSTECH
 
 **MADField: Multi-fidelity Amortized Density Field for Adsorption in Nanoporous Materials**
 <br> **Yoonho Kim**, Seongsu Kim, Sungsoo Ahn, Honghui Kim 
-<br><i>ICML AI4Science 2026(Accept), Neurips 2026 (Submitted)</i>
+<br><i>ICML AI4Science Workshop 2026(Accept), Neurips 2026 (Submitted)</i>
 
 **Machine Learning Hamiltonians are Accurate Energy-Force Predictors**
 <br> Seongsu Kim, Chanhui Lee, **Yoonho Kim**, Seongjun Yun, Honghui Kim, Nayoung Kim, Changyoung Park, Sehui Han, Sungbin Lim, Sungsoo Ahn 
